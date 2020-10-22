@@ -152,6 +152,10 @@
     "package": "@google-cloud/logging-bunyan"
   },
   {
+    "api": "logging",
+    "package": "@google-cloud/logging-winston"
+  },
+  {
     "api": "mediatranslation",
     "package": "@google-cloud/media-translation"
   },
@@ -242,10 +246,6 @@
   {
     "api": "logging",
     "package": "@google-cloud/logging"
-  },
-  {
-    "api": "logging",
-    "package": "@google-cloud/logging-winston"
   },
   {
     "api": "monitoring",
